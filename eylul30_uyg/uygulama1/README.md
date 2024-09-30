@@ -1,4 +1,5 @@
 Aşağıda tanımlanan kodu yazınız.
+
 Otomobil sınıfında bulunacak değişkenler.
 • String Marka, Model;
 Otomobil sınıfında bulunacak metotlar:
@@ -23,15 +24,15 @@ TicariBinek sınıfında bulunacak metotlar:
 Sonuç
 ------------
 Reanult Clio
-*Otomobilin markası: Reanult
-*Otomobilin modeli: Clio
+* Otomobilin markası: Reanult
+* Otomobilin modeli: Clio
 ------------
 Dacia Sandero
-*Binek otomobilin markası: Dacia
-*Binek otomobilin modeli: Sandero
-*Binek otomobilin yakıt türü: Motorin
+* Binek otomobilin markası: Dacia
+* Binek otomobilin modeli: Sandero
+* Binek otomobilin yakıt türü: Motorin
 ------------
 Tofaş Kartal
-*Ticari binek otomobilin markası: Tofaş
-*Ticari binek otomobilin modeli: Kartal
-*Ticari binek otomobilin bagaj kapasitesi: 250LT
+* Ticari binek otomobilin markası: Tofaş
+* Ticari binek otomobilin modeli: Kartal
+* Ticari binek otomobilin bagaj kapasitesi: 250LT

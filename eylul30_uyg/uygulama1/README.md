@@ -1,24 +1,24 @@
 Aşağıda tanımlanan kodu yazınız.
 
 Otomobil sınıfında bulunacak değişkenler.
-• String Marka, Model;
+- String Marka, Model;
 Otomobil sınıfında bulunacak metotlar:
-• Constructor: Değişken atama için kullanılacak
-• OtomobilGoruntule: Atanan değişkenleri görüntülemek için kullanılacak
+- Constructor: Değişken atama için kullanılacak
+- OtomobilGoruntule: Atanan değişkenleri görüntülemek için kullanılacak
 
 Binek sınıfı otomobil sınıfından kalıtım alacak.
 Binek sınıfına özgü değişkenler:
-• String Yakit Turu
+- String Yakit Turu
 Binek sınıfında bulunacak metotlar:
-• Constructor: Sadece temel sınıfın constructor metotunu çağırmak için kullanılacak
-• BinekOtomobilGoruntule: Marka, Model ve Yakit Turu değişkenlerini görüntülemek için kullanılacak
+- Constructor: Sadece temel sınıfın constructor metotunu çağırmak için kullanılacak
+- BinekOtomobilGoruntule: Marka, Model ve Yakit Turu değişkenlerini görüntülemek için kullanılacak
 
 TicariBinek sınıfı Binek sınıfından kalıtım alacak.
 TicariBinek sınıfına özgü değişkenler:
-• String Bagaj Kapasitesi
+- String Bagaj Kapasitesi
 TicariBinek sınıfında bulunacak metotlar:
-• Constructor: Sadece temel sınıfın constructor metotunu çağırmak için kullanılacak
-• TicariBinek OtomobilGoruntule: Marka, Model ve Bagajkapasitesi değişkenlerini görüntülemek için kullanılacak
+- Constructor: Sadece temel sınıfın constructor metotunu çağırmak için kullanılacak
+- TicariBinek OtomobilGoruntule: Marka, Model ve Bagajkapasitesi değişkenlerini görüntülemek için kullanılacak
 
 
 Sonuç
